@@ -7,3 +7,5 @@ fields:
   label: Layout
   name: layout
   default: post
+pages:
+- _posts/whole30-day1-2-recap.md
