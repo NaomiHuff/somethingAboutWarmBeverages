@@ -16,7 +16,7 @@ fields:
   label: Tags
   name: tags
 - type: file
-  name: banner_image
+  name: background
   label: Banner Image
   description: Ideal dimensions 2500px by 1200px
 - type: list
