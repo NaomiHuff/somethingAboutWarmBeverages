@@ -7,3 +7,5 @@ fields:
   default: Write your post here
   label: Post
   name: post
+pages:
+- _posts/test-post.md
