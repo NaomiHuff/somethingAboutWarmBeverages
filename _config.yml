@@ -11,8 +11,8 @@ collections:
 email: your-email@example.com
 description: Coffee, tea, and other warm bevvies
 author: Naomi
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: http://blackrockdigital.github.io
+baseurl: /
+url: https://somethingaboutwarmbeverages.com
 markdown: kramdown
 paginate: 5
 paginate_path: "/posts/page:num/"
