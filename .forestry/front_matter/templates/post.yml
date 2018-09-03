@@ -31,3 +31,5 @@ fields:
   label: Layout
   default: post
   hidden: true
+pages:
+- _posts/a-little-bit-about-me.md
