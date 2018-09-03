@@ -32,4 +32,4 @@ fields:
   default: post
   hidden: true
 pages:
-- _posts/a-little-bit-about-me.md
+- _posts/2018-09-03-a-little-bit-about-me.md
