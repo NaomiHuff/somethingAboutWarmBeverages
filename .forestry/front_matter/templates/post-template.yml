@@ -5,7 +5,7 @@ is_partial: false
 fields:
 - type: textarea
   default: Write your post here
-  label: Post
+  label: Title
   name: post
 pages:
 - _posts/2018-09-03-test-post.md
