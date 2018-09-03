@@ -2,4 +2,32 @@
 label: Post
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: textarea
+  name: title
+  label: Title
+- type: textarea
+  name: sub_heading
+  label: Sub Heading
+- type: datetime
+  name: publish_date
+  label: Publish Date
+- type: tag_list
+  label: Tags
+  name: tags
+- type: file
+  name: banner_image
+  label: Banner Image
+  description: Ideal dimensions 2500px by 1200px
+- type: list
+  name: related_posts
+  label: Related Posts
+  config:
+    use_select: true
+    source:
+      type: datafiles
+- type: text
+  name: layout
+  label: Layout
+  default: post
+  hidden: true
