@@ -5,7 +5,7 @@ date: 2018-09-03 14:58:09 +0000
 sub_heading: ''
 publish_date: 2018-09-03 15:30:00 +0000
 tags: []
-banner_image: "/uploads/BSP_6268.jpg"
+background: "/uploads/BSP_6268.jpg"
 related_posts: []
 
 ---
