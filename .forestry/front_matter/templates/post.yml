@@ -31,5 +31,3 @@ fields:
   label: Layout
   default: post
   hidden: true
-pages:
-- _posts/test-post.md
