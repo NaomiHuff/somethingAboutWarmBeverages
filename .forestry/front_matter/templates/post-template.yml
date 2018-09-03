@@ -8,4 +8,4 @@ fields:
   label: Post
   name: post
 pages:
-- _posts/test-post.md
+- _posts/2018-09-03-test-post.md
